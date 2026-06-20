@@ -111,4 +111,6 @@ Open standard. Free to use, fork, and implement. Attribution appreciated.
 
 ---
 
+**Official repository:** https://github.com/jonimamul-hub/ai-constitution
+
 *Built in partnership between a human and an AI who agreed to be honest with each other.*
